@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+#container {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    height: 680px;
+    width: 488px;
+    border-radius: 25px;
+}
+
+#footer {
+    background-color: #F5F6F7;
+    border-top: 2px #4f4255 solid;
+    padding: 15px 68px;
+    height: 30px;
+    font-size: 12px;
+    color: #444;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    width: 100%;
+}
+body {
+    background-color: #F5F6F7;
+}
+
+#scryfall-link {
+    color: #4f4255;
+}
+
+#button-container {
+    margin: 30px;
+}
+
+#more-btn {
+    width: 244px;
+    border-radius: 10px;
+    border-color: #4f4255;
+    color: #4f4255;
+    font-weight: bold;
+}
+
+#rate-msg {
+    color: red;
+    font-weight: bold;
+}
